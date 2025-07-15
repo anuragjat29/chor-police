@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 # 🎮 Chor Chor Police Game
 
 A beautifully styled multiplayer card game where players take on different roles: King, Mantri, Sipahi, and Chor.
@@ -53,8 +51,6 @@ A beautifully styled multiplayer card game where players take on different roles
 
 ---
 
-=======
->>>>>>> 22ab14b (Describe your change here)
 # 🎮 Chor Chor Police Game
 
 A beautifully styled multiplayer card game where players take on different roles: King, Mantri, Sipahi, and Chor.
@@ -104,11 +100,3 @@ A beautifully styled multiplayer card game where players take on different roles
 - JavaScript (ES6+)
 - Font Awesome Icons
 - Google Fonts (Poppins)
-
----
-
-<<<<<<< HEAD
-=======
->>>>>>> 7ea9ee2 (Initial commit)
->>>>>>> 22ab14b (Describe your change here)
-**Enjoy playing Chor Chor Police!** 🎉 
